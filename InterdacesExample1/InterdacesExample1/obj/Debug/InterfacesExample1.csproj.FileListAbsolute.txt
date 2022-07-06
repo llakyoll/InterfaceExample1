@@ -1,0 +1,7 @@
+C:\Users\Ahmed\OneDrive - Ege Üniversitesi\Masaüstü\C#\InterdacesExample1\InterdacesExample1\bin\Debug\InterdacesExample1.exe.config
+C:\Users\Ahmed\OneDrive - Ege Üniversitesi\Masaüstü\C#\InterdacesExample1\InterdacesExample1\bin\Debug\InterdacesExample1.exe
+C:\Users\Ahmed\OneDrive - Ege Üniversitesi\Masaüstü\C#\InterdacesExample1\InterdacesExample1\bin\Debug\InterdacesExample1.pdb
+C:\Users\Ahmed\OneDrive - Ege Üniversitesi\Masaüstü\C#\InterdacesExample1\InterdacesExample1\obj\Debug\InterfacesExample1.csproj.AssemblyReference.cache
+C:\Users\Ahmed\OneDrive - Ege Üniversitesi\Masaüstü\C#\InterdacesExample1\InterdacesExample1\obj\Debug\InterfacesExample1.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed\OneDrive - Ege Üniversitesi\Masaüstü\C#\InterdacesExample1\InterdacesExample1\obj\Debug\InterdacesExample1.exe
+C:\Users\Ahmed\OneDrive - Ege Üniversitesi\Masaüstü\C#\InterdacesExample1\InterdacesExample1\obj\Debug\InterdacesExample1.pdb
